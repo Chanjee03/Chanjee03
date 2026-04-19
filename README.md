@@ -8,7 +8,7 @@ Cybersecurity Enthusiast & AI Explorer
 “Exploring the unseen, securing the unprotected.”
 
 # 💫 About Me:
-🔭 I’m currently working on : Automatic Network Topology Generation, Validation, and Simulation Tool<br>🌱 I’m currently learning : AI/ML<br>💬 Ask me about : ETHICAL HACKING<br>📫 How to reach me : kumarchandan3291@gmail.com<br>⚡ Fun fact : I Think I enjoy complex challenges
+🌱 I’m currently learning : AI/ML<br>💬 Ask me about : ETHICAL HACKING<br>📫 How to reach me : kumarchandan3291@gmail.com<br>⚡ Fun fact : I Think I enjoy complex challenges
 
 
 ## 🌐 Socials:
