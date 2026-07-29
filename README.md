@@ -18,7 +18,6 @@ B.Tech CSE (AI Specialization), graduating May 2027. Hands-on with log analysis,
 ### 🔬 Currently Building
 
 - 🖥️ **Home SOC lab** — Kali Linux + Splunk on hardened Ubuntu Server, Windows target instrumented with Sysmon, for end-to-end log ingestion and alert triage practice.
-- ☁️ **Cloud Attack Detection Lab** — AWS CloudTrail / GuardDuty.
 - 🎯 **Purple Team Detection Coverage** — Atomic Red Team + Sigma rules.
 
 ---
