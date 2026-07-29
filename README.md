@@ -1,30 +1,56 @@
-## Hi there 👋
-I am CHANDAN KUMAR
-Cybersecurity Enthusiast & AI Explorer
-🔹 BTech CSE (AI Specialization) | Ethical Hacker in Training
-🔹 Passionate about turning complex cybersecurity challenges into real-world solutions
-🔹 Always experimenting with Kali Linux, Python, and AI-powered automation
+<div align="center">
 
-“Exploring the unseen, securing the unprotected.”
+# Chandan Kumar
 
-# 💫 About Me:
-🌱 I’m currently learning : AI/ML<br>💬 Ask me about : ETHICAL HACKING<br>📫 How to reach me : kumarchandan3291@gmail.com<br>⚡ Fun fact : I Think I enjoy complex challenges
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF9C&center=true&vCenter=true&width=600&lines=Aspiring+SOC+Analyst+(L1%2FL2);Network+Security+%7C+SOC+Automation;Building+a+home+SOC+lab+with+Splunk+%2B+Kali)
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chandan-kumar)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kumarchandan3291@gmail.com)
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chandan-kumar) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kumarchandan3291@gmail.com) 
+</div>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Chanjee03&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Chanjee03&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Chanjee03&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+---
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+### 👋 About
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Chanjee03&limit=5&theme=dark&combine_all_yearly_contributions=true)
+B.Tech CSE (AI Specialization), graduating May 2027. Hands-on with log analysis, network traffic inspection, and vulnerability assessment — working through a structured SOC analyst prep path (TryHackMe SOC Level 1, MITRE ATT&CK, Purple Team detection coverage) toward L1/L2 SOC analyst roles.
 
+### 🔬 Currently Building
 
+- 🖥️ **Home SOC lab** — Kali Linux + Splunk on hardened Ubuntu Server, Windows target instrumented with Sysmon, for end-to-end log ingestion and alert triage practice.
+- ☁️ **Cloud Attack Detection Lab** — AWS CloudTrail / GuardDuty.
+- 🎯 **Purple Team Detection Coverage** — Atomic Red Team + Sigma rules.
+
+---
+
+### 🛠️ Featured Projects
+
+| Project | What it does |
+|---|---|
+| [**AI Web App Vulnerability Scanner**](https://github.com/Chanjee03/AI_Web_App_Vulnerability_Scanner_Tool) | Detects OWASP Top 10 vulnerabilities using ML-assisted payload generation and false-positive reduction |
+| [**Phishing Email Analysis**](https://github.com/Chanjee03/Phishing-email-analysis) | Inspects `.eml` files for spoofed senders, malicious links, and header manipulation; generates IOC reports |
+| [**Network Traffic Analysis (Wireshark)**](https://github.com/Chanjee03/Capturing-and-Analyzing-Network-Traffic-using-WIRESHARK) | Live packet capture and protocol-level analysis of DNS, HTTP, TCP, ICMP traffic |
+| [**Vulnerability Scanning (OpenVAS)**](https://github.com/Chanjee03/vulnerability-scan-using-openVAS) | GVM/OpenVAS setup on Kali Linux, including scanner and Redis socket troubleshooting |
+| [**Firewall Setup (Windows/Linux)**](https://github.com/Chanjee03/Setup-and-Use-a-Firewall-on-Windows-Linux) | UFW and Windows Firewall configuration: port blocking, SSH allowance, rule verification |
+| [**Local Network Port Scanning**](https://github.com/Chanjee03/Scanning-Local-Network) | Identifies open ports and exposed services on a local network |
+
+---
+
+### ⚙️ Core Skills
+
+![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Nmap](https://img.shields.io/badge/Nmap-A7A6A6?style=for-the-badge&logo=nmap&logoColor=black)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+<sub>MITRE ATT&CK · OpenVAS/GVM · Log Analysis · Vulnerability Assessment</sub>
+
+---
+
+<div align="center">
+
+📫 **Reach me:** [kumarchandan3291@gmail.com](mailto:kumarchandan3291@gmail.com)
+
+</div>
